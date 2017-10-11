@@ -1,0 +1,25 @@
+h2.intro {
+  font-family: sans-serif;
+  font-weight: bold;
+  width: 50%;
+  font-style: italic;
+  color: grey;
+}
+
+p.intro {
+  font-weight: bold;
+  width: 50%;
+}
+ img.intro {
+   height: 500px;
+   width: 648px;
+   background-color: powderblue;
+ }
+
+.skills {
+  color: pink;
+}
+
+.refresh {
+  color: grey;
+}
